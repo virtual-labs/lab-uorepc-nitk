@@ -1,16 +1,16 @@
 {
-    "broadArea": {
-        "name": "Chemical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
-    },
-    "lab": "Process Control & Reaction Engineering and Unit Operations Lab",
-    "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "NITS",
-    "baseUrl": "uorepc-nitk.vlabs.ac.in",
-    "introduction": "Welcome to Process Control, Reaction Engineering and Unit Operations Lab.",
-    "experiments": [
+  "broadArea": {
+    "name": "Chemical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
+  },
+  "lab": "Process Control & Reaction Engineering and Unit Operations Lab",
+  "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "NITS",
+  "baseUrl": "uorepc-nitk.vlabs.ac.in",
+  "introduction": "Welcome to Process Control, Reaction Engineering and Unit Operations Lab.",
+  "experiments": [
     {
       "name": "Flow through pipes",
       "short-name": "flow-through-pipes",
@@ -74,14 +74,19 @@
       "tag": "v0.0.0",
       "deploy": true
     }
-    ],
-    "targetAudience": {
-        "UG": ["Target group will be updated soon."],
-        "PG": ["Target group will be updated soon."]
-    },
-    "objective": "To understand the concepts of flow through pipes, flow through fittings, flow through orifice meter, flow through venturimeter, flow through packed bed, flow through fluidized bed, reaction kinetic studies in a batch reactor, in a mixed flow reactor and in a plug flow reactor.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."]
-    }
+  ],
+  "targetAudience": {
+    "UG": ["Target group will be updated soon."],
+    "PG": ["Target group will be updated soon."]
+  },
+  "objective": "To understand the concepts of flow through pipes, flow through fittings, flow through orifice meter, flow through venturimeter, flow through packed bed, flow through fluidized bed, reaction kinetic studies in a batch reactor, in a mixed flow reactor and in a plug flow reactor.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."
+    ]
+  },
+  "exp_name": "Reaction kinetic studies in a plug flow reactor",
+  "exp_short_name": "plug-flow-reactor",
+  "version": "v0.1.0"
 }
