@@ -1,0 +1,87 @@
+{
+    "broadArea": {
+        "name": "Chemical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
+    },
+    "lab": "Process Control & Reaction Engineering and Unit Operations Lab",
+    "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "NITS",
+    "baseUrl": "uorepc-nitk.vlabs.ac.in",
+    "introduction": "Welcome to Process Control, Reaction Engineering and Unit Operations Lab.",
+    "experiments": [
+    {
+      "name": "Flow through pipes",
+      "short-name": "flow-through-pipes",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-pipes-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Flow through fittings",
+      "short-name": "flow-through-fittings",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-fittings-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Flow through orifice meter",
+      "short-name": "flow-through-orifice-meter",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-orifice-meter-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Flow through venturi meter",
+      "short-name": "flow-through-venturi-meter",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-venturi-meter-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Flow through packed bed",
+      "short-name": "flow-through-packed-bed",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-packed-bed-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Flow through fluidized bed",
+      "short-name": "flow-through-fluidized-bed",
+      "repo": "https://github.com/virtual-labs/exp-flow-through-fluidized-bed-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Reaction kinetic studies in a batch reactor",
+      "short-name": "batch-reactor",
+      "repo": "https://github.com/virtual-labs/exp-batch-reactor-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Reaction kinetic studies in a mixed flow reactor",
+      "short-name": "mixed-flow-reactor",
+      "repo": "https://github.com/virtual-labs/exp-mixed-flow-reactor-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Reaction kinetic studies in a plug flow reactor",
+      "short-name": "plug-flow-reactor",
+      "repo": "https://github.com/virtual-labs/exp-plug-flow-reactor-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["Target group will be updated soon."],
+        "PG": ["Target group will be updated soon."]
+    },
+    "objective": "To understand the concepts of flow through pipes, flow through fittings, flow through orifice meter, flow through venturimeter, flow through packed bed, flow through fluidized bed, reaction kinetic studies in a batch reactor, in a mixed flow reactor and in a plug flow reactor.",
+    "courseAlignment": {
+        "description": "",
+        "universities": ["The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."]
+    }
+}
