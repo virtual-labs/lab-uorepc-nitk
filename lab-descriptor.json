@@ -7,7 +7,7 @@
   "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "uorepc-nitk.vlabs.ac.in",
   "introduction": "Welcome to Process Control, Reaction Engineering and Unit Operations Lab.",
   "experiments": [
@@ -88,5 +88,5 @@
   },
   "exp_name": "Reaction kinetic studies in a plug flow reactor",
   "exp_short_name": "plug-flow-reactor",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }
