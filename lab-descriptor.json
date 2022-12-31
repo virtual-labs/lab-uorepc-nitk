@@ -3,13 +3,13 @@
     "name": "Chemical Engineering",
     "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
   },
+  "escapeCharOnFlag": "true",
   "lab": "Process Control & Reaction Engineering and Unit Operations Lab",
   "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "NITK",
   "baseUrl": "uorepc-nitk.vlabs.ac.in",
-  "escapeCharOnFlag": "true",
   "introduction": "Welcome to Process Control, Reaction Engineering and Unit Operations Lab.",
   "experiments": [
     {
@@ -89,5 +89,5 @@
   },
   "exp_name": "Reaction kinetic studies in a plug flow reactor",
   "exp_short_name": "plug-flow-reactor",
-  "version": "v0.7.0"
+  "version": "v0.8.0"
 }
