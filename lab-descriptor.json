@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Chemical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-chemical-engineering",
+    "code":"CHEMENG"
   },
   "lab": "Process Control & Reaction Engineering and Unit Operations Lab",
   "lab_display_name": "Process Control, Reaction Engineering and Unit Operations Lab",
