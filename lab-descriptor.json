@@ -86,8 +86,5 @@
     "universities": [
       "The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."
     ]
-  },
-  "exp_name": "Reaction kinetic studies in a plug flow reactor",
-  "exp_short_name": "plug-flow-reactor",
-  "version": "v0.9.0"
+  }
 }
