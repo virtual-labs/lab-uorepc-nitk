@@ -23,14 +23,14 @@
       "name": "Flow through fittings",
       "short-name": "flow-through-fittings",
       "repo": "https://github.com/virtual-labs/exp-flow-through-fittings-nitk",
-      "tag": "v0.0.2",
+      "tag": "v0.0.3",
       "deploy": true
     },
     {
       "name": "Flow through orifice meter",
       "short-name": "flow-through-orifice-meter",
       "repo": "https://github.com/virtual-labs/exp-flow-through-orifice-meter-nitk",
-      "tag": "v0.0.2",
+      "tag": "v0.0.3",
       "deploy": true
     },
     {
